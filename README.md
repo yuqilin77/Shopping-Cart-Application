@@ -57,3 +57,6 @@ Then you can access it in your web browser by navigating to
 ## Contact
 
 For any inquiries, please contact Yuqi Lin (<ylin12@bu.edu>).
+## Watch the application in action here:  
+🔗 https://youtu.be/xZhwTdjSGEM
+
