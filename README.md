@@ -3,7 +3,6 @@ This is a shopping cart application.
 
 ## Table of Contents
 
-- [CS602 Term Project](#cs602-term-project)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Features](#features)
